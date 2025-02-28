@@ -1,1 +1,3 @@
+Git Revert test 2 on 1txt
+
 this is sample file 1
