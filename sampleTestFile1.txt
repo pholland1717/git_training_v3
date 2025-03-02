@@ -1,3 +1,7 @@
-this is sample file 1
+Git Revert test 2 on 1txt
+
+this is sample file 1 about the Indian-American aerospace engineer
 
 Adding some new text to this file
+this comparison lecture
+
